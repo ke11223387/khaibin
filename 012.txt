@@ -1,3 +1,7 @@
+api.bilibili.com
+bilibili.com
+youku.com
+*.youku.com
 server=/.video.qq.com:443/127.0.0.1#5353
 server=/.video.qq.com/127.0.0.1#5353
 server=/3g.music.qq.com/127.0.0.1#5353
