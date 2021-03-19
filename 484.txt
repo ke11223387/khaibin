@@ -1,0 +1,97 @@
+
+!##############General List Start###############
+||*.edu.cn
+||*.gov.cn
+# AcFun
+||*.acfun.cn
+||*.acfun.com
+||*.aixifan.com
+# 网易
+||*.163.com
+||*.126.com
+||*.127.net
+||*.netease.com
+||*.163yun.com
+||*.126.net
+# 腾讯
+||*.qq.com
+||*.soso.com
+||*.qpic.cn
+||*.gtimg.cn
+||*.weixin.com
+||*.qlogo.cn
+- IP-CIDR,203.205.192.0/18
+# 新浪
+||*.weibo.com
+||*.sinajs.cn
+||*.sina.com
+||*.sina.cn
+||*.sina.com.cn
+||*.sinaimg.cn
+||*.sinajs.cn
+||*.miaopai.com
+||*.xiaoka.tv
+||*.t.cn
+# 阿里
+||*.aliyun.com
+||*.taobao.com
+||*.alicdn.com
+||*.tmall.com
+||*.mmstat.com
+||*.tbcdn.com
+||*.alibabacloud.com
+||*.alipay.com
+||*.hichina.com
+||*.xiami.com
+||*.xiami.net
+# 百度
+||*.baidu.com
+||*.bdstatic.com
+||*.bcebos.com
+||*.baidupcs.com
+||*.qianqian.com
+# Bilibili
+||*.hdslb.com
+||*.bilibili.com
+||*.geetest.com
+||*.acgvideo.com
+||*.bilivideo.com
+# 湖南TV
+||*.hitv.com
+||*.hunantv.com
+||*.mgtv.com
+# Migu
+||*.cmvideo.cn
+||*.migu.cn
+||*.miguvideo.com
+# 优酷
+||*.soku.com
+||*.youku.com
+||*.ykimg.com
+# 爱奇艺
+||*.iqiyi.com
+||*.iqiyipic.com
+||*.qy.net
+# 搜狐
+||*.sohu.com
+||*.sohu.com.cn
+||*.itc.cn
+||*.v-56.com
+# Kugou, Kuwo
+||*.kugou.com
+||*.kuwo.cn
+||*.koowo.com
+# 知乎
+||*.zhihu.com
+||*.zhimg.com
+# 秀米
+||*.xiumi.us
+# 豆瓣
+||*.douban.com
+||*.doubanio.com
+# 天眼查
+||*.tianyancha.com
+# IP地址测试
+||*.ip138.com
+!##############General List End#################
+!---------------------EOF-----------------------
